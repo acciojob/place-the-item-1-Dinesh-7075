@@ -9,7 +9,7 @@
 	flex-direction:row;
 	justify-content:space-between;
 	align-items:start;
-	flex-wrap:wrap-reverse;
+	flex-wrap:wrap;
 }
 .green{
 	border:1px solid green;
